@@ -1,0 +1,15 @@
+{
+  "name": "bitnews",
+  "version": "0.0.0",
+  "description": "",
+  "main": "tracker.js",
+  "dependencies": {
+    "n2n": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
